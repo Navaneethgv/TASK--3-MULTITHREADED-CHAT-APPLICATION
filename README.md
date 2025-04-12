@@ -163,3 +163,4 @@ Restart both applications
 
 *output*
 
+![Image](https://github.com/user-attachments/assets/3566867c-84b8-447b-a0a8-e0fd6f6709c1)
